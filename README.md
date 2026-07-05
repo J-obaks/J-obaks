@@ -1,16 +1,21 @@
-## Hi there 👋
+# About me
+I'm Jonathan 👋
 
-<!--
-**J-obaks/J-obaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student | Aspiring Frontend Developer | Computer Networking Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building responsive web applications and embedded systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently
+- Learning web development
+- Looking for internship opportunities
+
+## 🛠 Tech Stack
+JavaScript • TypeScript • React • Next.js • Tailwind CSS • Python • C •
+Node.js • Git • Arduino 
+
+## 📌 Featured Projects
+...
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Obaka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanobaka/)
